@@ -76,7 +76,7 @@ Based on my analysis, I recommend:
 
 # Repository Contents
 •	**Market Basket Data Analysis Workbook:** 
-The Excel workbook containing all data and analysis. Downlad the ‘Market Basket Analysis Project1.xlxb’  file.
+The Excel workbook containing all data and analysis. Download the ‘Market Basket Analysis Project1.xlxb’  file.
 
   # CONCLUSION
 This project showcased my capability to extract actionable insights from complex data, driving business growth through informed decision-making. By analyzing customer purchasing behavior and market trends, I demonstrated my expertise in data analysis and its practical applications. I'm thrilled to share this experience with you, highlighting the impact of data-driven strategies on business performance. Thank you for exploring my project. If you have questions or would like to discuss potential collaborations, please don't hesitate to contact me
