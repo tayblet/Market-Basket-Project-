@@ -62,6 +62,8 @@ To communicate findings, I:
 * Created a dashboard capturing key business performance areas.
 * Presented recommendations to stakeholders.
 
+  ![market basket ](https://github.com/tayblet/Market-Basket-Project-/blob/ccbd962206304f46fbc33b89ce1b7f370e6d0f4d/market%20basket%20screenshot.PNG)
+
 **ACT**
 
 Based on my analysis, I recommend:
